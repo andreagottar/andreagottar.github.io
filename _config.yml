@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrea Gottardini / Personal Webpage"
+title                    : "Andrea Gottardini / Automation and Control Engineer"
 title_separator          : "-"
 name                     : &name "Andrea Gottardini"
 description              : &description "Ciao, this is my personal webpage where I post my works and materials"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "andrea_pic.jpeg"
+  name             : "Andrea Gottardini"
+  pronouns         : "He/Him"
+  bio              : "Automation and Control Engineer from Politecnico di Milano"
+  location         : "Milan, Italy"
+  employer         : "Politecnico di Milano"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andreagottar@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
