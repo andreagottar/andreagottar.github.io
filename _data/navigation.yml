@@ -4,5 +4,7 @@ main:
     url: #
   - title: "Teaching"
     url: /teaching/
+  - title: "Short Biography"
+    url: /biography
 
 
