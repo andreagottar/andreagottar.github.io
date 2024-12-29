@@ -2,7 +2,7 @@
 title: "Short Biography"
 collection: Biography
 type: ""
-permalink: /biography
+permalink: /biography/
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"

@@ -2,9 +2,10 @@
 main:
   - title: "CV"
     url: #
+  - title: "Short Biography"
+    url: /biography/
   - title: "Teaching"
     url: /teaching/
-  - title: "Short Biography"
-    url: /biography
+  
 
 
