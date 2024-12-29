@@ -9,10 +9,12 @@ redirect_from:
 
 ## About Me
 
-Hello! I'm Andrea, a passionate researcher specializing in autonomous systems and model predictive control (MPC). I enjoy tackling complex problems and leveraging machine learning to drive innovation in robotics and automation.
+I am a PhD student at Politecnico di Milano, in the DEIB (Department of Electronics, Information, and Bioengineering).
 
-![Learning-Based MPC](images/learning_based_mpc.jpg)
+\begin{figure}[ht]
+  \raggedleft
+  \includegraphics[width=0.3\textwidth]{images/learning_based_mpc.jpg}
+\end{figure}
 
-Feel free to connect with me and explore my projects on [LinkedIn](#) or [GitHub](#).
 
 ---
