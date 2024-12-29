@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Andrea Gottardini"
 title_separator          : "-"
 name                     : &name "Andrea Gottardini"
-description              : &description "Ciao, this is my personal webpage where I post my works and materials"
+description              : &description "Ciao, this is my personal webpage where I post parts of my works and materials"
 url                      : https://andreagottar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreagottar/andreagottar.github.io"
@@ -21,7 +21,7 @@ repository               : "andreagottar/andreagottar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/andrea_pic.png"
+  avatar           : "images/andrea_pic.jpg"
   name             : "Andrea Gottardini"
   pronouns         : "He/Him"
   bio              : "Automation and Control Engineer from Politecnico di Milano"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : andreagottar
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
