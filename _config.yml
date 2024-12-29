@@ -12,7 +12,7 @@ title                    : "Andrea's Homepage"
 title_separator          : "-"
 name                     : &name "Andrea Gottardini"
 description              : &description "Ciao, this is my personal webpage where I post parts of my works and materials"
-url                      : https://andreagottar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andreagottar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andreagottar/andreagottar.github.io"
 
