@@ -9,12 +9,8 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student at Politecnico di Milano, in the DEIB (Department of Electronics, Information, and Bioengineering).
+🔬 I am a PhD student at Politecnico di Milano, in the DEIB (Department of Electronics, Information, and Bioengineering).
 
-\begin{figure}[ht]
-  \raggedleft
-  \includegraphics[width=0.3\textwidth]{images/learning_based_mpc.jpg}
-\end{figure}
-
+<img src="images/learning_based_mpc.jpg" alt="Learning-Based MPC" style="float: right; width: 30%;"/>
 
 ---
